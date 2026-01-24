@@ -10,9 +10,6 @@ IEEE Mega Project is a platform to learn and experience the entire process of ma
 It's a team-based project building event, where college students collaborate together to bring their ideas to reality.
 
 
-# Timeline
-December 5, 2021 - January 8, 2022
-
 # How to create a Pull Request
 - Fork this repository, clone it to your system, and **make a folder of your project name.**
 - Add all your project files inside that folder.
