@@ -1,7 +1,6 @@
-<h1 align="center">
-demo link -https://smart-city-emergency-system-htiwvm8ddjvem85lo4ruh4.streamlit.app/
-IEEE MegaProject</h1>
+<h1 align="center">IEEE MegaProject</h1>
 <h3 align="center">Organised by IEEE Student Branch BIT Mesra</h3>
+demo link -https://smart-city-emergency-system-htiwvm8ddjvem85lo4ruh4.streamlit.app/
 
 # About the Event
 "The best way to predict the future is to invent it." - Alan Kay
